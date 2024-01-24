@@ -1,7 +1,7 @@
 import React from "react";
 import "./Post.css";
 import Post from "./Post";
-import cs1 from '../ff4.png';
+import ff5 from '../ff5.png';
 
 import ff1 from '../ff1.png';
 
@@ -45,7 +45,7 @@ const Posts = () => {
         ,
         author: "Lawrie, MFraud&FinCrime,CAMS,CAMS-Audit",
         blogImg:
-            cs1,
+            ff5,
         },
         {
         title: "Fraud Topic",
