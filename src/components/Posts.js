@@ -1,7 +1,7 @@
 import React from "react";
 import "./Post.css";
 import Post from "./Post";
-import cs1 from '../ff2.png';
+import cs1 from '../ff4.png';
 
 import ff1 from '../ff1.png';
 
