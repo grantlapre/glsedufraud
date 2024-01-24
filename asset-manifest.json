@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/glsedufraud/static/css/main.f855e6bc.css",
-    "main.js": "/glsedufraud/static/js/main.624da85c.js",
+    "main.css": "/glsedufraud/static/css/main.b239ef86.css",
+    "main.js": "/glsedufraud/static/js/main.58ce6b1f.js",
     "static/js/787.99971385.chunk.js": "/glsedufraud/static/js/787.99971385.chunk.js",
-    "static/media/logo.svg": "/glsedufraud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/glsedufraud/index.html",
-    "main.f855e6bc.css.map": "/glsedufraud/static/css/main.f855e6bc.css.map",
-    "main.624da85c.js.map": "/glsedufraud/static/js/main.624da85c.js.map",
+    "main.b239ef86.css.map": "/glsedufraud/static/css/main.b239ef86.css.map",
+    "main.58ce6b1f.js.map": "/glsedufraud/static/js/main.58ce6b1f.js.map",
     "787.99971385.chunk.js.map": "/glsedufraud/static/js/787.99971385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.624da85c.js"
+    "static/css/main.b239ef86.css",
+    "static/js/main.58ce6b1f.js"
   ]
 }
