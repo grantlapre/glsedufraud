@@ -32,7 +32,7 @@ const Posts = () => {
         
         Finally yet importantly - companies dealing in minerals must take responsibility too! They should apply responsible mineral supply chain management as per the OECD's guidance. This involves due diligence that traces minerals back to their origin, ensuring they are not linked with conflict or illegal activities.
         
-         while gold continues to be a symbol of wealth and prosperity, it's crucial for us to thank its darker side. By implementing stricter regulations, enhancing international cooperation, and promoting responsible business practices, we can ensure that our love for gold doesn't come at an unacceptable cost.
+         while gold continues to be a symbol of wealth and prosperity, it's crucial for us to be aware of its darker side. By implementing stricter regulations, enhancing international cooperation, and promoting responsible business practices, we can ensure that our love for gold doesn't come at an unacceptable cost.
         
         So next time you admire a piece of gold jewelry or consider investing in this precious metal - remember the power you hold. Ask questions about where your gold comes from and choose responsibly sourced products. Together, we can make a difference and help combat financial crimes associated with gold.
         
